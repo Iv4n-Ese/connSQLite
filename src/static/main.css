@@ -1,0 +1,8 @@
+body{
+    font-family: 'Orienta', sans-serif;
+    color: #fff;
+}
+.done{
+    text-decoration:  line-through;
+    color: #b1b1b1;
+}
